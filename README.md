@@ -37,19 +37,6 @@ Modifikasi yang dilakukan:
 
 ---
 
-## Screenshot Website
-
-### Home Page
-Tambahkan screenshot halaman Home di sini.
-
-### About Us
-Tambahkan screenshot halaman About Us di sini.
-
-### Membership
-Tambahkan screenshot halaman Membership di sini.
-
-### Contact Us
-Tambahkan screenshot halaman Contact Us di sini.
 
 ## Screenshot Website
 <img width="818" height="4550" alt="_C__Users_papuk_Downloads_alafi_FitLife%20Gym%20%E2%80%93%20Company%20Profile%20Fitness%20Center_index html" src="https://github.com/user-attachments/assets/83f40ace-8b54-4489-b1c1-70a58173595f" />
