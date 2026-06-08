@@ -1,4 +1,4 @@
-// DARK MODE
+
 
 const darkBtn = document.getElementById("darkModeBtn");
 
@@ -14,7 +14,6 @@ darkBtn.addEventListener("click", () => {
 
 });
 
-// MEMBERSHIP CALCULATOR
 
 function calculatePrice(){
 
@@ -27,7 +26,6 @@ function calculatePrice(){
 
 }
 
-// CONTACT VALIDATION
 
 document.getElementById("contactForm")
 .addEventListener("submit", function(e){
@@ -54,7 +52,6 @@ document.getElementById("contactForm")
 
 });
 
-// COUNTER ANIMATION
 
 const counters =
 document.querySelectorAll(".counter");
