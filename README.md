@@ -11,58 +11,8 @@ Website ini dibuat menggunakan HTML, CSS, Bootstrap, dan JavaScript dengan tampi
 ## link web demo
 https://yahyaazis24.github.io/UTSWeb_B_0064/
 
-## Fitur Website
 
-### Home
-Menampilkan landing page utama dengan slogan dan tombol navigasi.
 
-### About Us
-Menampilkan profil singkat FitLife Gym.
-
-### Why Choose Us
-Menampilkan keunggulan yang dimiliki FitLife Gym.
-
-### Programs
-Menampilkan berbagai program latihan yang tersedia.
-
-### Statistics Counter
-Menampilkan jumlah member, trainer, dan pengalaman gym dengan animasi counter.
-
-### Professional Trainers
-Menampilkan trainer profesional yang tersedia.
-
-### Membership Plans
-Menampilkan paket membership yang tersedia.
-
-### Gallery
-Menampilkan dokumentasi aktivitas dan fasilitas gym.
-
-### Testimonials
-Menampilkan testimoni dari member FitLife Gym.
-
-### Contact Us
-Menampilkan form kontak untuk pengguna.
-
----
-
-## Manipulasi DOM yang Digunakan
-
-### 1. Dark Mode / Light Mode
-Mengubah tampilan website dari mode terang ke mode gelap menggunakan JavaScript.
-
-### 2. Membership Calculator
-Menghitung harga membership berdasarkan paket yang dipilih pengguna.
-
-### 3. Form Validation
-Memastikan semua input pada Contact Form telah diisi sebelum form dikirim.
-
-### 4. Alert Notification
-Menampilkan notifikasi ketika pesan berhasil dikirim.
-
-### 5. Counter Animation
-Menampilkan animasi angka pada statistik member, trainer, dan pengalaman gym.
-
----
 
 ## Teknologi yang Digunakan
 
@@ -73,18 +23,7 @@ Menampilkan animasi angka pada statistik member, trainer, dan pengalaman gym.
 
 ---
 
-## Struktur Project
 
-```text
-FitLifeGym/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
 
 ## Referensi Desain
 
@@ -95,12 +34,6 @@ https://dribbble.com/search/fitness-website
 Modifikasi yang dilakukan:
 - Mengubah layout agar sesuai kebutuhan company profile.
 - Mengubah warna menjadi kombinasi merah, hitam, dan putih.
-- Menambahkan section Membership.
-- Menambahkan Counter Animation.
-- Menambahkan Dark Mode.
-- Menambahkan Form Validation.
-- Menambahkan Membership Calculator.
-- Menyesuaikan konten dengan tema FitLife Gym.
 
 ---
 
